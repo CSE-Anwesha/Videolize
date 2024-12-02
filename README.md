@@ -38,5 +38,4 @@ A stunning, modern, and interactive personal portfolio website inspired by [Diag
 ```bash
 https://circuit-overtime.github.io/Videolize/designer.html
 ```
-It's me #Anwesha
 
